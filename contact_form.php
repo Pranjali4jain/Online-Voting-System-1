@@ -6,6 +6,7 @@
     <title>GLA UNIVERSITY Contact Form</title>
 </head>
 <body>
+    
     <?php
     include("header.html");
     ?>
