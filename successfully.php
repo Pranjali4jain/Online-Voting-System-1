@@ -50,8 +50,6 @@
                 <li class="nav-item" >
                   <a class="nav-link" href="about.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">About</a>
                 </li>
-              
-                
               </ul>
             </div>
           </nav>
